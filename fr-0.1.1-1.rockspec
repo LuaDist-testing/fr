@@ -1,8 +1,16 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "fr"
 version = "0.1.1-1"
+-- LuaDist source
 source = {
-  url = "git://github.com/aiverson/frlua.git"
+  tag = "0.1.1-1",
+  url = "git://github.com/LuaDist-testing/fr.git"
 }
+-- Original source
+-- source = {
+--   url = "git://github.com/aiverson/frlua.git"
+-- }
 description = {
   summary = "Functional Reactive programming capabilities in Lua.",
   detailed = [[FRLua is a library inspired by Bacon.js to provide Functional Reactive programming capabilities in Lua.
